@@ -1,8 +1,7 @@
 import { Main } from '@/components/main'
-import '@/styles/main.css'
 
 function IndexPopup() {
-  return <Main />
+  return <Main name="Extension" />
 }
 
 export default IndexPopup
